@@ -1,0 +1,6 @@
+cc_binary(
+    name = "minimal_main",
+    srcs = [
+        "test.cpp",
+    ],
+)

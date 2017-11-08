@@ -1,0 +1,1 @@
+build --crosstool_top=@org_llvm_clang_prebuilt//:toolchain
